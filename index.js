@@ -16,4 +16,4 @@ function rq(op1){
 }
 
 
-module.exports={suma, subs, mult, div, rq}
+module.exports={suma, subs, mult, div, rq};
