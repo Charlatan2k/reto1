@@ -10,8 +10,8 @@ function div(op1, op2){
   return op1 / op2
 }
 
-function rq(op1){
-  let result = Math.sqrt(op1);
+function cuadrado(op1){
+  let result = op1^2;
   return result;
 }
 
